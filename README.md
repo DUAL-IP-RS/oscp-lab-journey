@@ -15,15 +15,16 @@ Hier dokumentiere ich meinen gesamten Lernprozess, Pentest-Methoden, Tools, Chea
 
 ## 📁 Struktur
 
-- `00-setup` – Setups, Tools, Grundkonfigurationen
-- `01-methodology` – Pentest-Prozesse, Angriffsphasen, Vorgehen
-- `02-enum` – Enumeration/Recon (Host, Service, Web, User, etc.)
-- `03-exploits` – eigene und gefundene Exploits, Exploit-Skripte
-- `04-notes` – persönliche Notizen, Erkenntnisse, OSCP-Hints
-- `05-cheatsheets` – Quick-Commands, Befehle, Snippets
-- `06-machines` – Dokumentationen zu einzelnen Labs/HTB/PG
-- `07-reporting` – Vorlagen, Markdown, Beispiel-Reports
-- `08-scripts` – eigene Tools, Automatisierungen, Hilfsskripte
+- `00-setup` – Tools, VM-Konfigurationen, Grundkonfigurationen
+- `01-methodology` – Pentest-Prozesse, Angriffstechniken, Vorgehen
+- `02-enum` – Scans, Recon, Enumeration (Host, Service, Web, User, etc.)
+- `03-exploits` – Eigene Exploits, Proof-of-Concepts, Skripte
+- `04-machines` – Dokumentationen zu Labs/HTB/THM/PG/VulnHub
+- `05-scripts` – Hilfsskripte, Automatisierungen, One-Liner
+- `06-notes` – Persönliche Notizen, Erkenntnisse, OSCP-Hints
+- `07-vpn` – VPN-Setups (TryHackMe, HTB, OpenWRT, WireGuard)
+- `08-cheatsheets` – Quick-Commands, Befehle, Snippets
+- `09-reporting` – Vorlagen, Beispiel-Reports, Markdown
 
 ---
 
