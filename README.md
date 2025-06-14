@@ -38,7 +38,7 @@ Hier dokumentiere ich meinen gesamten Lernprozess, Pentest-Methoden, Tools, Chea
 ## 🚩 Hinweise
 
 - **Kein Leaken der OSCP-Prüfungsinhalte!**  
-  Alles basiert auf offenen Quellen, eigenen Labs oder erlaubten Plattformen (HTB, PG, VulnHub).
+  Alles basiert auf offenen Quellen, eigenen Labs oder erlaubten Plattformen (HTB, THM, PG, VulnHub).
 - Das Repo ist **Work-in-Progress** und wächst mit jedem Lerntag.
 
 ---
