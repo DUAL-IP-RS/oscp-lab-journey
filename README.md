@@ -44,7 +44,7 @@ Hier dokumentiere ich meinen gesamten Lernprozess, Pentest-Methoden, Tools, Chea
 ---
 
 **Fragen, Anregungen oder Austausch?**  
-📧 E-Mail: [oscp@dualip.com](mailto:oscp@dualip.com)  
+📧 E-Mail: [oscp@dual-ip.com](mailto:oscp@dual-ip.com)  
 🌐 Website: [https://dual-ip.com](https://dual-ip.com)  
 💼 LinkedIn: [https://www.linkedin.com/in/dual-ip](https://www.linkedin.com/in/dual-ip)
 
